@@ -27,6 +27,6 @@ then we use git push to actually push the previosuly mentioned commands the git 
 
 # Images
 
-(gitServer1.png)
+(gitServer1.PNG)
 
-(gitServer2.png)
+(gitServer2.PNG)
