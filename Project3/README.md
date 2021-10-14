@@ -6,14 +6,14 @@
 # VPC
 * VPC (Virtual Private Cloud) is dedicated virtual network that allows us to use the services of the server from AWS over the internet the one we are currently making is considered a Public Cloud. its purpose to is make a digital connection over a network using a virtual network to allow us to use its services from anywhere which gives us the ability to access data anywhere.
 
-## image
+# image
 ![screenshot](VPC2.png)
 
 # Subnet
 
 * The Subnet is a range of IP addresses in you VPC used to allow computers to talk directly to one another without a gateway. 
 
-## image
+# image
 ![screenshot](Subnet2.png)
 
 # Gateway 
@@ -21,21 +21,21 @@
 * A gateway is a node (router) in a network this is a important stopping point for the data on its way to or on its way from other networks.
 because of this we can send our data back and forth being able to communicate with one another. 
 
-## image
+# image
 ![screenshot](Gateway.png)
 
 # Route Table
 
 * Routes are used to direct where your network traffic will go. This will be used with our cloud to direct traffic within the network where you want it to go and send out data out into the world.
 
-## image
+# image
 ![screenshot](routetable.png)
 
 # Security Group 
 
 * Security Groups work outside and inside the VPC the rules allow you to filter the traffic using protocols and port numbers. This will be our firewall for the network 
 
-## image
+# image
 ![screenshot](SecurityGRoups.png)
 
 ## Part 2
@@ -54,7 +54,7 @@ because of this we can send our data back and forth being able to communicate wi
 
 * I reserved the EIP I associated the instance and myers-eip by clicking on the actions tab next to the allocate Elastic IP address click associate tab then type in your instance with the instanbce field 
 
-## image
+# image
 ![screenshot](instance.png)
 
 * changing the hostname to Myers-Ubuntu
