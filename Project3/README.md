@@ -36,7 +36,7 @@ because of this we can send our data back and forth being able to communicate wi
 * Security Groups work outside and inside the VPC the rules allow you to filter the traffic using protocols and port numbers. This will be our firewall for the network 
 
 # image
-![screenshot](SecurityGRoups.png)
+![screenshot](SecurityGroups.png)
 
 ## Part 2
 
