@@ -14,7 +14,7 @@
 * The Subnet is a range of IP addresses in you VPC used to allow computers to talk directly to one another without a gateway. 
 
 # image
-![screenshot](Subnet2.png)
+![screenshot](images/Subnet2.png)
 
 # Gateway 
 
@@ -22,21 +22,21 @@
 because of this we can send our data back and forth being able to communicate with one another. 
 
 # image
-![screenshot](Gateway.png)
+![screenshot](images/Gateway.png)
 
 # Route Table
 
 * Routes are used to direct where your network traffic will go. This will be used with our cloud to direct traffic within the network where you want it to go and send out data out into the world.
 
 # image
-![screenshot](routetable.png)
+![screenshot](images/routetable.png)
 
 # Security Group 
 
 * Security Groups work outside and inside the VPC the rules allow you to filter the traffic using protocols and port numbers. This will be our firewall for the network 
 
 # image
-![screenshot](SecurityGroups.png)
+![screenshot](images/SecurityGroups.png)
 
 ## Part 2
 
@@ -55,6 +55,6 @@ because of this we can send our data back and forth being able to communicate wi
 * I reserved the EIP I associated the instance and myers-eip by clicking on the actions tab next to the allocate Elastic IP address click associate tab then type in your instance with the instanbce field 
 
 # image
-![screenshot](instance.png)
+![screenshot](images/instance.png)
 
 * changing the hostname to Myers-Ubuntu
