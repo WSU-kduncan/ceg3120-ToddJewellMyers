@@ -7,7 +7,7 @@
 * VPC (Virtual Private Cloud) is dedicated virtual network that allows us to use the services of the server from AWS over the internet the one we are currently making is considered a Public Cloud. its purpose to is make a digital connection over a network using a virtual network to allow us to use its services from anywhere which gives us the ability to access data anywhere.
 
 # image
-![screenshot](images>VPC2.png)
+![screenshot](images/VPC2.png)
 
 # Subnet
 
