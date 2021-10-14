@@ -57,4 +57,7 @@ because of this we can send our data back and forth being able to communicate wi
 # image
 ![screenshot](images/instance.png)
 
-* changing the hostname to Myers-Ubuntu
+* Changing the hostname to Myers-Ubuntu use the command sudo hostname Myers-Ubuntu
+
+# image
+![screenshot](images/namechange.png)
